@@ -1,7 +1,7 @@
 # O-que-vou-aprendendo-em-SQL-Server
 Repositório com análises realizadas em SQL Server, PostgreSQL e MySQL.
 
-1 - Utilizando funções básicas
+## 1 - Utilizando funções básicas:
  1.1 - Função **CREATE DATABASE** (Cria um banco de dados)
  1.2 - Função **ALTER DATABASE** (Altera um banco de dados)
  1.3 - Função **MODIFY NAME** (Modifica o nome do banco de dados)
