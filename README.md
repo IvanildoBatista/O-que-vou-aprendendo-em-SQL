@@ -2,8 +2,8 @@
 Repositório com análises realizadas em SQL Server, PostgreSQL e MySQL.
 
 ## 1 - Utilizando funções básicas:
- 1.1 - Função **CREATE DATABASE** (Cria um banco de dados)
- 1.2 - Função **ALTER DATABASE** (Altera um banco de dados)
+ ### 1.1 - Função **CREATE DATABASE** (Cria um banco de dados)
+ ### 1.2 - Função **ALTER DATABASE** (Altera um banco de dados)
  1.3 - Função **MODIFY NAME** (Modifica o nome do banco de dados)
  1.4 - Função **USE** (Utiliza uma banco de dados específico)
  1.5 - Função **CREATE TABLE** (Cria uma tabela dentro de um banco de dados)
