@@ -2,5 +2,7 @@
 Repositório com análises realizadas em SQL Server, PostgreSQL e MySQL.
 
 ## 1 - Utilizando funções básicas
+
+## 2 - Utilizando as funções INSERT, UPDATE, DELETE e WHERE
  
  
